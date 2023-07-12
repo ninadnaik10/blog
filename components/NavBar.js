@@ -9,7 +9,7 @@ export default function NavBar() {
             <div className="line" />
           </div>
         </label>
-        <label className="logo" onclick="location.href='../index'" />
+        <label className="logo" onClick="location.href='../index'" />
         <ul className="nav-list">
           <li>
             <a href="../index">Home</a>

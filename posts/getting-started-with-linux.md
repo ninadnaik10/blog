@@ -1,3 +1,9 @@
+---
+title: "Getting Started with Linux"
+subtitle: "Personal computers have evolved in the past and is evolving every coming year. So is the operating system. An operating system is system software that makes communication between computer hardware and software. We have a bunch of operating system to choose from as per our convenience and need."
+date: "2021-06-09"
+---
+
 Personal computers have evolved in the past and is evolving every coming year. So is the operating system. An operating system is system software that makes communication between computer hardware and software. We have a bunch of operating system to choose from as per our convenience and need. The popular ones are Windows 10, macOS and Linux distributions. Each operating system has its own advantages and disadvantages. So, there is no sense by asking which is the best operating system in the world.
 
 We get Windows 10 preinstalled with most of the computers and laptops. macOS is installed in Mac lineup manufactured by Apple. These two operating systems are proprietary which means no one except the owning companies can access the code and contribute in the development of them. On the other hand, Linux is an open source operating system. It is owned by a community of developers. These people develop it and fix any errors or bugs in the OS. It is free of cost and can be used on any hardware. Linux has many distributions like Kali Linux, Ubuntu, Fedora, Arch Linux, Peppermint OS, Linux Mint, Elementary OS, etc. You can either buy a PC with Linux preinstalled or use Linux along with Windows 10 using Dual-Boot or installing it on a Virtual Machine like VMWare Workstation or VirtualBox. Here we are going to see how to install and setup Ubuntu using Dual-Boot because it is the most popular and easy for beginners.

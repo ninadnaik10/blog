@@ -1,3 +1,10 @@
+---
+title: "Why is Social Media not what you might think?"
+subtitle: "We all use social media everyday. But have you seen the behind-the-scenes? What
+is the real purpose of these companies?"
+date: "2021-10-12"
+---
+
 A month ago, I watched a mind-blowing documentary [_The Social Dilemma_](https://www.netflix.com/in/title/81254224) on YouTube. It was worth watching and shows you the real business behind the tech companies. Inspired by that, I thought of writing down the important topics discussed in the documentary and my own thoughts. Before proceeding, let's peak into the history first.
 
 The internet started in the 1960s as a way for government researchers to share information. It was not until 1991 when computer scientist Tim Berners-Lee invented the World Wide Web (WWW). He created the browser to access the web and made publicly available. That's when internet reached to the common people all around the world. At first, people could only send emails to communicate with other people on the internet. This version of web was named as Web 1.0. After the rise of social networking sites like SixDegrees, MySpace, Facebook, Twitter, Instagram and Snapchat. Then new version was made named Web 2.0.

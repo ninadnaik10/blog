@@ -1,3 +1,9 @@
+---
+title: "The Man in the Iron Lung"
+subtitle: "This is the man in the iron lung, Paul Alexander (born 1946). He is a polio survivor and one of the last people living in an iron lung."
+date: "2021-05-19"
+---
+
 ![Paul Alexander](/images/paul.png)  
 
 This is the man in the iron lung, Paul Alexander (born 1946). He is a polio survivor and one of the last people living in an iron lung. He contracted polio in 1952 at the age of 6 and paralyzed for life, only able to move his head, neck and mouth. When his parents noticed he was not able to breath, they rushed him to the hospital. During that time, it was the worst outbreak of polio in history. Since then, he has been taking help of a machine called iron lung which uses negative pressure to stimulate breathing to the patients. Despite his illness, he was home-schooled and graduated second in his class in 1967. He got his bachelor's degree from University of Texas in 1978, then his J.D. (law) degree in 1984 and became a lawyer.

@@ -1,3 +1,9 @@
+---
+title: "How to Efficiently Use Your Smartphone and Computer Together"
+subtitle: "We all use smartphone and computer to complete our day-to-day tasks. Android is the most popular operating system in smartphone market. On the other hand, Windows has the largest user base in personal computers. So as these are the popular OS then why can we not use them together seamlessly?."
+date: "2021-02-27"
+---
+
 We all use smartphone and computer to complete our day-to-day tasks. Android is the most popular operating system in smartphone market. On the other hand, Windows has the largest userbase in personal computers. So as these are the popular OS then why can we not use them together seamlessly?
 
 So, I am going to discuss some of the ways you can share data from your phone to your PC and vice versa. Not only that, you can also use these devices as one ecosystem like what Apple has their own.

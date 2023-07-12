@@ -1,3 +1,9 @@
+---
+title: "What is Crypto Currency?"
+subtitle: "Cryptocurrencies are popular across the internet. We have seen many news publishers, businessmen and influencers talking about cryptocurrency. But what exactly is cryptocurrency and how did it become so popular?"
+date: "2021-04-29"
+---
+
 Cryptocurrencies are popular across the internet. We have seen many news publishers, businessmen and influencers talking about cryptocurrency. But what exactly is cryptocurrency and how did it become so popular?
 
 Here I am going to explain what is this new type of currency in simple words. I want to address that I do not know everything about cryptocurrency so it is difficult for me to discuss everything here. So, let's start from the basics.

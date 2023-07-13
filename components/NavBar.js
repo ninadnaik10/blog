@@ -2,7 +2,7 @@ export default function NavBar() {
     return (
         <nav id="navbar" className="navbar">
         <input type="checkbox" id="check" />
-        <label htmlFor="check">
+        <label htmlFor="check" className="burgerLabel">
           <div className="burger" id="burger">
             <div className="line" />
             <div className="line" />

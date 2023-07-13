@@ -2,7 +2,7 @@ import fs from "fs";
 import getPostMetaData from "../components/getPostMetaData";
 import PostPreview from "../components/PostPreview";
 import  PostMetadata  from "../components/PostMetadata";
-
+import Background from "@/components/Background";
 
 // const getPostMetaData = () => {
 //   const folder = "posts/";
@@ -16,8 +16,10 @@ export default function Home() {
   const postPreviews = postMetaData.map((post) => (
     <PostPreview key={post.slug} {...post} />
   ));
+  // const quotes = quoteApi();
   return (
     <>
+    {/* <Background {...quotes}/> */}
       <div className="posts-div">
         <div className="blog-post">{postPreviews}</div>
       </div>

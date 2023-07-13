@@ -1,4 +1,5 @@
-export default function Background() {
+export default function Background(props) {
+  console.log(props);
   return (
     <section
       className="background"
@@ -8,8 +9,8 @@ export default function Background() {
       }}
     >
       <div className="mainHeading">
-        <p className="catchline" id="quote" />
-        <p className="subtext" id="author" />
+        <p className="catchline" id="quote">{props.catchline}</p>
+        <p className="subtext" id="author">{props.subtext}</p>
       </div>
     </section>
   );

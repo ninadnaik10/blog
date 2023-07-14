@@ -16,12 +16,12 @@ export const metadata = {
   openGraph: {
     title: 'Ninad\'s Blog',
     description: 'Thoughts: My goal with this blog is to share my thoughts and review some educational stuffs. It can be books, academics, technology, etc.',
-    images: ['https://i.ibb.co/s9CTGPb/1.jpg'],
+    images: ['/blog_logo.png'],
   },
   twitter: {
     title: 'Ninad\'s Blog',
     description: 'Thoughts: My goal with this blog is to share my thoughts and review some educational stuffs. It can be books, academics, technology, etc.',
-    images: ['https://i.ibb.co/s9CTGPb/1.jpg']
+    images: ['/blog_logo.png']
   }
 }
 

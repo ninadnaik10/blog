@@ -5,7 +5,6 @@ useful and make your work easy and quick?"
 date: "2021-07-03"
 ---
 
-# 10 Super Useful Websites
 
 There are over a billion websites on the internet. We all are familiar with popular websites and use them every day. But do you know some less popular ones which are truly useful and make your work easy and quick? Well, here are 10 super useful websites that will help you. All of them are free and easy-to-use.
 
@@ -41,7 +40,7 @@ There are over a billion websites on the internet. We all are familiar with popu
 
 6. [Google Fonts](https://fonts.google.com/)
    
-   ![google fonts](/images/google fonts.png)
+   ![googlefonts](/images/google_fonts.png)
    
    Google Fonts is a collection of free-to-use open-source fonts for various purposes. Whether you are a content creator, designer, or developer, there are plenty of fonts to choose from. The main categories include Serif, Sans Serif, Monospace, Display, and Handwriting. You can use these fonts for both commercial and non-commercial work.
 

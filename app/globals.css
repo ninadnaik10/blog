@@ -173,11 +173,12 @@ a{
     .burger{
         display: block;
     }
-    .burgerLabel, #check{
+    .burgerLabel{
         display: block;
     }
     .navbar{
         position: relative;
+        justify-content: flex-start;
     }
     .nav-list{
         display: none;
@@ -583,4 +584,26 @@ p.bq-credit{
     display: flex;
     list-style: none;
     flex-direction: row;
+}
+
+.social-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1.5em;
+}
+
+.social-links a{
+    border-bottom: none;
+    text-decoration: none;
+    margin: 1em;
+}
+
+.blog-date{
+    font-style: italic;
+}
+
+img{
+    border-radius: 20px;
 }

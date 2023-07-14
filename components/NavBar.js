@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function NavBar() {
     return (
         <nav id="navbar" className="navbar">
@@ -9,22 +11,22 @@ export default function NavBar() {
             <div className="line" />
           </div>
         </label>
-        <label className="logo" onClick="location.href='../index'" />
+        <Link href="/"><div className="logo"></div></Link>
         <ul className="nav-list">
           <li>
-            <a href="../index">Home</a>
+            <Link href="/">Home</Link>
           </li>
-          <li>
+          {/* <li>
             <a href="/blog">Blog</a>
-          </li>
+          </li> */}
           <li>
-            <a href="/about">About</a>
+            <a href="https://ninadnaik10.github.io">About</a>
           </li>
-          <li>
+          {/* <li>
             <a href="https://ninadnaik.in" target="_blank">
               Portfolio
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav>
       

@@ -26,12 +26,12 @@ export default function Footer() {
         </a></div>
       </div>
       <div className="footer-end">
-        <p>
+        {/* <p>
           Images by{" "}
           <a href="https://unsplash.com" target="_blank">
             Unsplash.com
           </a>
-        </p>
+        </p> */}
         <ul className="copyright">
           <li>
             <Link href="/privacy-policy">Privacy Policy</Link> ·&nbsp;

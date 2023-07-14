@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import getPostMetaData from "components/getPostMetaData";
 import Background from "@/components/Background";
 import BlogHead from "@/components/BlogHead";
+import { format } from "date-fns";
 
 const getPostContent = (slug) => {
   const folder = "posts/";
@@ -32,7 +33,7 @@ export default function BlogPage(props) {
   const postContent = getPostContent(slug);
   const headProps = {
     title: postContent.data.title,
-    dateText: "Posted on " + postContent.data.date,
+    dateText: "Posted on " + format(Date.parse(postContent.data.date), "LLLL d, yyyy"),
   }
   return (
     <>

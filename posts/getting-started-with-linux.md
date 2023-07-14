@@ -39,11 +39,11 @@ Basic Installation
     
 *   **Step 2: Download Ubuntu ISO file**
     
-    You can download Ubuntu ISO file from [the official Ubuntu website open\_in\_new](https://ubuntu.com/download/desktop) . Make sure you download latest version available. The latest version is Ubuntu 20.04 (Focal Fossa).
+    You can download Ubuntu ISO file from [the official Ubuntu website](https://ubuntu.com/download/desktop) . Make sure you download latest version available. The latest version is Ubuntu 20.04 (Focal Fossa).
     
 *   **Step 3: Create live USB stick**
     
-    To create a live USB stick, download and install [Universal USB Installer open\_in\_new](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) . After installing, connect your Pen Drive and open File Explorer and format it. Open Universal USB Installer and browse the location of Ubuntu ISO file. Leave everything default and click start. It will automatically create a live USB of Ubuntu.
+    To create a live USB stick, download and install [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) . After installing, connect your Pen Drive and open File Explorer and format it. Open Universal USB Installer and browse the location of Ubuntu ISO file. Leave everything default and click start. It will automatically create a live USB of Ubuntu.
     
 *   **Step 4: Boot into Ubuntu**
     
@@ -65,7 +65,7 @@ Basic Installation
     
     On the next page choose install Ubuntu alongside Windows.
     
-    ![Ubuntu](/images/disk-partition-dual-boot-ubuntu-windows (3).png)
+    ![Ubuntu](/images/disk-partition-dual-boot-ubuntu-windows.png)
     
     After that allocate the disk space you want to give to Ubuntu and click Install Now. It will take 8-10 minute to install. Once the installation is complete restart your PC. Remove the USB and press Enter.
     
@@ -126,23 +126,23 @@ Commands for popular apps
 
 1.  **Spotify**
     
-    sudo snap install spotify
+    `sudo snap install spotify`
     
 2.  **VLC media player**
     
-    sudo apt install vlc
+    `sudo apt install vlc`
     
 3.  **Audacity**
     
-    sudo snap install audacity
+    `sudo snap install audacity`
     
 4.  **Android Studio**
     
-    sudo snap install android-studio --classic
+    `sudo snap install android-studio --classic`
     
 5.  **Sublime Text**
     
-    sudo snap install sublime-text
+    `sudo snap install sublime-text`
     
 
 Using GNOME Shell Extensions
@@ -152,21 +152,21 @@ Extensions are pretty useful and enhances the overall experience. With GNOME, we
 
 First check your GNOME shell version. It should be 3.36 or above
 
-gnome-shell --version
+`gnome-shell --version`
 
 Add Extension Integration on browser
 
-[For Chrome open\_in\_new](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep) | [For Firefox open\_in\_new](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[For Chrome](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep) | [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 Install Native connector
 
-sudo apt install chrome-gnome-shell
+`sudo apt install chrome-gnome-shell`
 
 Install GNOME tweaks
 
-sudo apt install gnome-tweaks
+`sudo apt install gnome-tweaks`
 
-That's it. Now you can go to [extensions.gnome.org open\_in\_new](https://extensions.gnome.org/) . There you can browse and enable extensions. To enable click on it and toggle the on or off switch. Then enter your password.
+That's it. Now you can go to [extensions.gnome.org](https://extensions.gnome.org/) . There you can browse and enable extensions. To enable click on it and toggle the on or off switch. Then enter your password.
 
 Here are my favorite GNOME extensions:
 

@@ -16,10 +16,10 @@ This would make anyone feel like giving up. But Paul didn't want to die. He just
 
 In an interview, Paul said:
 
-> No matter where you're from or what your past is, or the challenges that you could be facing, you can truly do anything. You've just got to set your mind to it and work hard!
-> 
-> My story, is an example of why your past or even your disability does not have to define your future.
-
+<blockquote class="blockquote">
+<p class="bq-text">No matter where you're from or what your past is, or the challenges that you could be facing, you can truly do anything. You've just got to set your mind to it and work hard!</p>
+<p class="bq-text">My story, is an example of why your past or even your disability does not have to define your future.</p>
+</blockquote>
   
 
 Paul's dream is to not let polio defeat him but to defeat polio. He wanted to accomplish the thing he was told he couldn't and achieve the dream he dreamed.

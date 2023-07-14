@@ -9,9 +9,10 @@ A month ago, I watched a mind-blowing documentary [_The Social Dilemma_](https:/
 
 The internet started in the 1960s as a way for government researchers to share information. It was not until 1991 when computer scientist Tim Berners-Lee invented the World Wide Web (WWW). He created the browser to access the web and made publicly available. That's when internet reached to the common people all around the world. At first, people could only send emails to communicate with other people on the internet. This version of web was named as Web 1.0. After the rise of social networking sites like SixDegrees, MySpace, Facebook, Twitter, Instagram and Snapchat. Then new version was made named Web 2.0.
 
-> You affect the world by what you browse.
-> 
-> — Tim Berners-Lee
+<blockquote class="blockquote">
+<p class="bq-text">You affect the world by what you browse.</p>
+<p class="bq-text bq-credit">—  Tim Berners-Lee</p>
+</blockquote>
 
 Since every coin has two sides, the advantages of social media are worth mentioning. It is easy to find new people of same interest, talent or profession. On social media sites like Facebook, we can find the groups of our interest, follow influencers and make new friends from anywhere in the world. Sharing ideas, creating new things, talking about serious topics, spreading awareness around the globe and many more things have been made possible by the community on the internet. Some creators crowdfund for good cause and needy ones managed to get organs with the help of the social media. During the global pandemic, many people seek out hobbies, interest, attend live concert online, connect with friends on video call and educate themselves with genuine news about the pandemic.
 
@@ -19,15 +20,24 @@ Internet is a volatile place. One can never predict what would possibly happen i
 
 Social media addiction is another major problem especially among teenagers. According to Addiction Center, social media addiction looks much like any other substance disorder and may include mood modification, behavioural and emotional changes, ever-increasing use of social media, experiencing unpleasant physical and emotional symptoms when social media use is restricted and conflict. These trillion dollars-per year companies produce the same sense as of gambling and drugs to keep users using their products as much as possible. We have seen people considering the amount of likes and comments on their posts and worrying about it, constantly checking their social media apps. We tend to make a lot friends online but the question is whether they are our real friends. We chat a lot on Instagram, Messenger, and WhatsApp but definitely don't know the mood, expression, emotion and attention of the person with whom we are texting. Talking in front of that person makes the conversation real because we can see their body gestures, look, voice, etc. Teenagers are facing more depression, anxiety and loneliness than ever.
 
-> Likes just changed from spreading love around the world to making teenagers depressed.
+> 
+<blockquote class="blockquote">
+<p class="bq-text">Likes just changed from spreading love around the world to making teenagers depressed.</p>
+</blockquote>
 
 Big tech corporation are very good at making their products as addictive as possible. These companies collect a huge amount of data even if you are not using their products. Facebook and Instagram collect your browsing history, posts you like, people you follow, your exact location, news you read and undoubtedly sell these data to advertising companies to show you ads. It seems fine as these platforms run on advertising business models but it's hard to imagine the amount of data collected and processed to target us with relevant ads. Not only that, intruders can attack these platforms and steal users' data. In Facebook-Cambridge Analytica scandal, Facebook confirmed that data of potentially 87 million users was collected without the users' consent for political advertising. The data contained users' profile photo, birthday, current city, page likes, news feed, timeline, messages and 5000 different data points. The data was detailed enough to create psychographic profiles of the users. As mentioned in popular documentary [_The Great Hack_](https://www.netflix.com/in/title/80117542), Cambridge Analytica is just the tip of the iceberg.
 
-> If you are not paying for the product, you are the product.
+<blockquote class="blockquote">
+<p class="bq-text">If you are not paying for the product, you are the product.</p>
+</blockquote>
+
 
 Internet was created to decentralize the mode of communication which means there is web of network and even if anyone network collapses, the internet does not get disrupt. Contrary to this, internet is mostly centralized by tech companies like Facebook and Google today. Most of the people feel internet is Facebook and Google and they are not wrong. During the recent Facebook, Instagram and WhatsApp outage, many people suffer because businesses work on it. People could not log into other web services with Facebook. Therefore, it is clear that Facebook has created monopoly throughout the internet.
 
-> Data is the most valuable asset on the Earth.
+<blockquote class="blockquote">
+<p class="bq-text">Data is the most valuable asset on the Earth.</p>
+</blockquote>
+
 
 Now it is our responsibility to control the use of social media. No one would suggest to delete social media accounts to everyone. But even if few people do, it matters a lot. Here are the suggestions for everyone:
 
@@ -44,6 +54,7 @@ Now it is our responsibility to control the use of social media. No one would su
 11.  Make friends in your neighbourhood.
 12.  Lastly, get out of these AI-generated world. Look outside. The world is beautiful.
 
-> Whether it is to be Utopia or Oblivion will be a touch-and-go relay race right up to the final moment....
-> 
-> — Buckminster Fuller
+<blockquote class="blockquote">
+<p class="bq-text">Whether it is to be Utopia or Oblivion will be a touch-and-go relay race right up to the final moment....</p>
+<p class="bq-text bq-credit">—  Buckminster Fuller</p>
+</blockquote>

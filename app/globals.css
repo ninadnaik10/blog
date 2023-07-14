@@ -605,9 +605,13 @@ p.bq-credit{
 }
 
 img{
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .blog-title1{
     line-height: 1;
+}
+
+.first{
+    cursor: default;
 }

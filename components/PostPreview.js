@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { PostMetadata } from "./PostMetadata";
+import { format } from "date-fns";
 
 const PostPreview = (props) => {
-    const options = { day: "numeric", month: "long", year: "numeric" };
   return (
     <>
   <div className="blog-post-preview">
@@ -12,7 +12,7 @@ const PostPreview = (props) => {
     <p className="blog-info">
       {props.subtitle}
     </p>
-    <p className="blog-info italic-p">Posted on {props.date/*.toLocaleDateString("en-US", options)*/}</p>
+    <p className="blog-info italic-p">Posted on {format(Date.parse(props.date), "LLLL d, yyyy")/*.toLocaleDateString("en-US", options)*/}</p>
   </div>
   <hr className="divider" />
 </>

@@ -23,8 +23,18 @@ export const generateStaticParams = async () => {
 
 export async function generateMetadata({params}){
   return {
-    title: getPostContent(params.slug).data.title,
+    title: getPostContent(params.slug).data.title + ' - Ninad\'s Blog',
     description: getPostContent(params.slug).data.subtitle,
+    openGraph: {
+      title: getPostContent(params.slug).data.title + ' - Ninad\'s Blog',
+      description: getPostContent(params.slug).data.subtitle,
+      images: ['/blog_logo.png'],
+    },
+    twitter: {
+      title: getPostContent(params.slug).data.title + ' - Ninad\'s Blog',
+      description: getPostContent(params.slug).data.subtitle,
+      images: ['/blog_logo.png']
+    }
   }
 }
 

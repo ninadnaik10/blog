@@ -9,11 +9,7 @@ export default function PrivacyPolicy() {
           {" "}
           This privacy policy ("Policy") describes how the personally
           identifiable information ("Personal Information") you may provide on
-          the{" "}
-          <a target="_blank" rel="nofollow" href="https://blog.ninadnaik.in">
-            blog.ninadnaik.in
-          </a>{" "}
-          website ("Website" or "Service") and any of its related products and
+          the website ("Website" or "Service") and any of its related products and
           services (collectively, "Services") is collected, protected and used.
           It also describes the choices available to you regarding our use of
           your Personal Information and how you can access and update this

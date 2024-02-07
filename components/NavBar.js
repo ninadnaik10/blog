@@ -20,7 +20,7 @@ export default function NavBar() {
             <a href="/blog">Blog</a>
           </li> */}
           <li>
-            <a href="https://ninadnaik10.github.io">About</a>
+            <a href="https://ninadnaik.xyz">About</a>
           </li>
           {/* <li>
             <a href="https://ninadnaik.in" target="_blank">

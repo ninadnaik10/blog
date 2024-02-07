@@ -7,7 +7,7 @@ import Footer from '@/components/Footer'
 export const metadata = {
   title: 'Ninad\'s Blog',
   description: 'Thoughts: My goal with this blog is to share my thoughts and review some educational stuffs. It can be books, academics, technology, etc.',
-  keywords: [],
+  keywords: ['Ninad Naik', 'Ninad', 'Naik', 'Blog', 'Thoughts', 'Books', 'Academics', 'Technology', 'Review', 'Ninad\'s Blog', 'Ninad Naik\'s Blog', 'Ninad Naik Blog', 'Ninad Naik GitHub', 'Ninad Naik Twitter', 'ninadnaik.xyz'],
   author: 'Ninad Naik',
   icons: {
     icon: '/logo.ico',

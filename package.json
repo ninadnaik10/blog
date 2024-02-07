@@ -19,6 +19,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "remark": "^14.0.3",
-    "remark-html": "^15.0.2"
+    "remark-html": "^15.0.2",
+    "remark-toc": "^9.0.0",
+    "supports-color": "^9.4.0",
+    "to-vfile": "^8.0.0"
   }
 }

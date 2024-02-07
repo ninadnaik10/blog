@@ -5,7 +5,6 @@ useful and make your work easy and quick?"
 date: "2021-07-03"
 ---
 
-
 There are over a billion websites on the internet. We all are familiar with popular websites and use them every day. But do you know some less popular ones which are truly useful and make your work easy and quick? Well, here are 10 super useful websites that will help you. All of them are free and easy-to-use.
 
 1. [Bitwarden](https://bitwarden.com/)
@@ -63,9 +62,9 @@ There are over a billion websites on the internet. We all are familiar with popu
    Corrupt a File is a website that allows you to corrupt project files. If you're stuck in a project or assignment and don't have time to complete it, you can upload the file to this website. The boss or teacher might think that you completed the task on time, but the file won't open. This gives you extra time to complete your work. Remember to complete your work on time in the future.
 
 10. [Simple Notes](https://simplenote.com/)
-   
-   ![simple note](/images/Simplenote.png)
-   
-   Simple Notes is a cross-platform note-taking website. It is free, easy-to-use, and offers all the essential features. It syncs your notes across all your devices. However, note that it does not store notes encrypted. If you prefer encryption, you can use [Standard Notes](https://standardnotes.com/) which works similarly but stores all your notes encrypted.
+    
+    ![simple note](/images/Simplenote.png)
+    
+    Simple Notes is a cross-platform note-taking website. It is free, easy-to-use, and offers all the essential features. It syncs your notes across all your devices. However, note that it does not store notes encrypted. If you prefer encryption, you can use [Standard Notes](https://standardnotes.com/) which works similarly but stores all your notes encrypted.
 
 That's the list of 10 super useful websites. Share it with your friends and let them know about these helpful resources. Feel free to comment on which website you liked the most and also share any other useful and interesting websites you know. Thanks a lot!

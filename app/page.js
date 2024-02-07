@@ -22,8 +22,8 @@ export default function Home() {
       {/* <Background {...quotes}/> */}
       <div className="posts-div">
         <div className="blog-post">
-          <h1 class="blog-title first">Thoughts</h1>
-          <p class="blog-info thought-info">
+          <h1 className="blog-title first">Thoughts</h1>
+          <p className="blog-info thought-info">
             My goal with this blog is to share my thoughts and review some
             educational stuffs. It can be books, academics, technology, etc.
           </p>

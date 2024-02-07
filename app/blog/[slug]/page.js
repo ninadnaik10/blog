@@ -5,12 +5,21 @@ import getPostMetaData from "components/getPostMetaData";
 import Background from "@/components/Background";
 import BlogHead from "@/components/BlogHead";
 import { format } from "date-fns";
+import {remark} from 'remark'
+import remarkToc from 'remark-toc'
+import {read} from 'to-vfile'
 
 const getPostContent = (slug) => {
   const folder = "posts/";
   const file = `${folder}${slug}.md`;
   const content = fs.readFileSync(file, "utf8");
+  // const contentToc = remark()
+  // .use(remarkToc)
+  // .process(content)
+  // console.log(contentToc)
   const matterResult = matter(content);
+  // console.log(matterResult)
+  // debugger;
   return matterResult;
 };
 
@@ -43,7 +52,7 @@ export default function BlogPage(props) {
   const postContent = getPostContent(slug);
   const headProps = {
     title: postContent.data.title,
-    dateText: "Posted on " + format(Date.parse(postContent.data.date), "LLLL d, yyyy"),
+    // dateText: "Posted on " + format(Date.parse(postContent.data.date), "LLLL d, yyyy"),
   }
   return (
     <>

@@ -43,22 +43,22 @@ Advantages
 
 As the cryptocurrency is virtual money, there are some key advantages over traditional currency.
 
-1.  Transaction: In the traditional businesses, there is brokerage, commission, agents, paperwork which makes the process complicated. Cryptocurrencies are traded without the need of ‘middle man'. This is known as one-to-one affair.
-2.  More confidentiality: The transaction details are not publicly available unless you do so. This protects your financial history.
-3.  Less transaction fees: As there is no bank system, you do not require to pay transaction fees. You are maybe required to pay to crypto wallets.
-4.  Greater access: These services are accessible to anyone having internet. It is estimated that people have more access to internet and mobile phones than banking services like credit cards.
-5.  Strong security: We have seen that blockchain technology is highly encrypted. So, it is impossible to hack this system.
+1. Transaction: In the traditional businesses, there is brokerage, commission, agents, paperwork which makes the process complicated. Cryptocurrencies are traded without the need of ‘middle man'. This is known as one-to-one affair.
+2. More confidentiality: The transaction details are not publicly available unless you do so. This protects your financial history.
+3. Less transaction fees: As there is no bank system, you do not require to pay transaction fees. You are maybe required to pay to crypto wallets.
+4. Greater access: These services are accessible to anyone having internet. It is estimated that people have more access to internet and mobile phones than banking services like credit cards.
+5. Strong security: We have seen that blockchain technology is highly encrypted. So, it is impossible to hack this system.
 
 Disadvantages
 -------------
 
 This system has some major disadvantages which prevents it to become wide-spread.
 
-1.  Illegal transaction: This problem is concerning many countries. As the transaction details are private, the investigating organisations cannot access these details. So many illegal items like drugs are bought on the dark web. Bitcoin is the biggest culprit here.
-2.  Financial losses: If a user loses its wallet key and password, there's no getting it back. The wallet will be locked along with the number of coins in it.
-3.  Adverse effects on environment: Mining cryptocurrency requires advanced computing power which cannot be done using ordinary computers. This demands a lot of energy.
-4.  Susceptible to hacks: Although cryptocurrencies are very secure, the wallet data is not that secure. Hackers can access this data and a lot of money can be stolen.
-5.  No refund: If someone mistakenly sends money to wrong address, there is no way to get it back. Many people can cheat others and create transaction whose products or services the user never receives.
+1. Illegal transaction: This problem is concerning many countries. As the transaction details are private, the investigating organisations cannot access these details. So many illegal items like drugs are bought on the dark web. Bitcoin is the biggest culprit here.
+2. Financial losses: If a user loses its wallet key and password, there's no getting it back. The wallet will be locked along with the number of coins in it.
+3. Adverse effects on environment: Mining cryptocurrency requires advanced computing power which cannot be done using ordinary computers. This demands a lot of energy.
+4. Susceptible to hacks: Although cryptocurrencies are very secure, the wallet data is not that secure. Hackers can access this data and a lot of money can be stolen.
+5. No refund: If someone mistakenly sends money to wrong address, there is no way to get it back. Many people can cheat others and create transaction whose products or services the user never receives.
 
 Conclusion
 ----------

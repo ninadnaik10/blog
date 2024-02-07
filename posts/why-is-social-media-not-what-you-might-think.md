@@ -21,6 +21,7 @@ Internet is a volatile place. One can never predict what would possibly happen i
 Social media addiction is another major problem especially among teenagers. According to Addiction Center, social media addiction looks much like any other substance disorder and may include mood modification, behavioural and emotional changes, ever-increasing use of social media, experiencing unpleasant physical and emotional symptoms when social media use is restricted and conflict. These trillion dollars-per year companies produce the same sense as of gambling and drugs to keep users using their products as much as possible. We have seen people considering the amount of likes and comments on their posts and worrying about it, constantly checking their social media apps. We tend to make a lot friends online but the question is whether they are our real friends. We chat a lot on Instagram, Messenger, and WhatsApp but definitely don't know the mood, expression, emotion and attention of the person with whom we are texting. Talking in front of that person makes the conversation real because we can see their body gestures, look, voice, etc. Teenagers are facing more depression, anxiety and loneliness than ever.
 
 > 
+
 <blockquote class="blockquote">
 <p class="bq-text">Likes just changed from spreading love around the world to making teenagers depressed.</p>
 </blockquote>
@@ -31,28 +32,26 @@ Big tech corporation are very good at making their products as addictive as poss
 <p class="bq-text">If you are not paying for the product, you are the product.</p>
 </blockquote>
 
-
 Internet was created to decentralize the mode of communication which means there is web of network and even if anyone network collapses, the internet does not get disrupt. Contrary to this, internet is mostly centralized by tech companies like Facebook and Google today. Most of the people feel internet is Facebook and Google and they are not wrong. During the recent Facebook, Instagram and WhatsApp outage, many people suffer because businesses work on it. People could not log into other web services with Facebook. Therefore, it is clear that Facebook has created monopoly throughout the internet.
 
 <blockquote class="blockquote">
 <p class="bq-text">Data is the most valuable asset on the Earth.</p>
 </blockquote>
 
-
 Now it is our responsibility to control the use of social media. No one would suggest to delete social media accounts to everyone. But even if few people do, it matters a lot. Here are the suggestions for everyone:
 
-1.  Turn off all the notifications. Don't let unnecessary stuff disturb your peaceful mind.
-2.  Turn off any personalised ads option.
-3.  Check many times before posting anything online. Even if you delete it later, it still remains in the system.
-4.  Don't spread news which are not true. Fact-check it always on Google or any other trusted source.
-5.  Set screen time limits on your phone.
-6.  Avoid keeping your phone in the bedroom at night.
-7.  Don't watch what YouTube recommends you, always search for the video.
-8.  Keep social media apps out of your sight which means out of your home screen.
-9.  If you feel uncomfortable, talk about it with seniors.
-10.  Take your time. Do something exciting. Read a book, go for a walk.
-11.  Make friends in your neighbourhood.
-12.  Lastly, get out of these AI-generated world. Look outside. The world is beautiful.
+1. Turn off all the notifications. Don't let unnecessary stuff disturb your peaceful mind.
+2. Turn off any personalised ads option.
+3. Check many times before posting anything online. Even if you delete it later, it still remains in the system.
+4. Don't spread news which are not true. Fact-check it always on Google or any other trusted source.
+5. Set screen time limits on your phone.
+6. Avoid keeping your phone in the bedroom at night.
+7. Don't watch what YouTube recommends you, always search for the video.
+8. Keep social media apps out of your sight which means out of your home screen.
+9. If you feel uncomfortable, talk about it with seniors.
+10. Take your time. Do something exciting. Read a book, go for a walk.
+11. Make friends in your neighbourhood.
+12. Lastly, get out of these AI-generated world. Look outside. The world is beautiful.
 
 <blockquote class="blockquote">
 <p class="bq-text">Whether it is to be Utopia or Oblivion will be a touch-and-go relay race right up to the final moment....</p>

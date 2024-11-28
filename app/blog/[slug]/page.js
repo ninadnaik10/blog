@@ -1,13 +1,13 @@
 import fs from "fs";
 import Markdown from "markdown-to-jsx";
 import matter from "gray-matter";
-import getPostMetaData from "components/getPostMetaData";
+import getPostMetaData from "@/components/getPostMetaData";
 import Background from "@/components/Background";
 import BlogHead from "@/components/BlogHead";
 import { format } from "date-fns";
-import {remark} from 'remark'
-import remarkToc from 'remark-toc'
-import {read} from 'to-vfile'
+import { remark } from "remark";
+import remarkToc from "remark-toc";
+import { read } from "to-vfile";
 
 const getPostContent = (slug) => {
   const folder = "posts/";
@@ -30,21 +30,21 @@ export const generateStaticParams = async () => {
   }));
 };
 
-export async function generateMetadata({params}){
+export async function generateMetadata({ params }) {
   return {
-    title: getPostContent(params.slug).data.title + ' - Ninad\'s Blog',
+    title: getPostContent(params.slug).data.title + " - Ninad's Blog",
     description: getPostContent(params.slug).data.subtitle,
     openGraph: {
-      title: getPostContent(params.slug).data.title + ' - Ninad\'s Blog',
+      title: getPostContent(params.slug).data.title + " - Ninad's Blog",
       description: getPostContent(params.slug).data.subtitle,
-      images: ['/blog_logo.png'],
+      images: ["/blog_logo.png"],
     },
     twitter: {
-      title: getPostContent(params.slug).data.title + ' - Ninad\'s Blog',
+      title: getPostContent(params.slug).data.title + " - Ninad's Blog",
       description: getPostContent(params.slug).data.subtitle,
-      images: ['/blog_logo.png']
-    }
-  }
+      images: ["/blog_logo.png"],
+    },
+  };
 }
 
 export default function BlogPage(props) {
@@ -53,13 +53,13 @@ export default function BlogPage(props) {
   const headProps = {
     title: postContent.data.title,
     // dateText: "Posted on " + format(Date.parse(postContent.data.date), "LLLL d, yyyy"),
-  }
+  };
   return (
     <>
       {/* <Background {...bgProps}/> */}
       <div className="post-body">
         <div className="post-inner">
-      <BlogHead {...headProps}/>
+          <BlogHead {...headProps} />
 
           <Markdown>{postContent.content}</Markdown>
         </div>
